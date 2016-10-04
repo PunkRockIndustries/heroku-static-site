@@ -355,7 +355,7 @@ textarea.form-control {
 	padding: 0;
 }
 
-.home-overlay {
+/*.home-overlay {
     background-color: rgba(44, 62, 80, 0.3);
     background-image: url("../images/pattern.png");
     background-repeat: repeat;
@@ -366,7 +366,7 @@ textarea.form-control {
     width: 100%;
     z-index: 0;
 }
-
+*/
 .intro {
 	position: absolute;
 	width: 100%;
