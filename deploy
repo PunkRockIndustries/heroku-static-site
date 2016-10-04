@@ -2,7 +2,7 @@
 
 # Add the 'heroku' remote if not here already
 git remote show heroku >/dev/null 2>&1 \
-  || git remote add heroku git@heroku.com:scratchml.git
+  || git remote add heroku git@heroku.com:arminschilling.git
 
 # To deploy: push to heroku
 git push heroku master
